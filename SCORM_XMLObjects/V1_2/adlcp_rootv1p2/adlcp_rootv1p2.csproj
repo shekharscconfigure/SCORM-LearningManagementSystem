@@ -94,10 +94,10 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="imsmd_rootv1p2p1">
+    <ProjectReference Include="..\imsmd_rootv1p2p1\imsmd_rootv1p2p1.csproj">
+      <Project>{bc758c30-dc21-2f42-869c-969999f6564e}</Project>
       <Name>imsmd_rootv1p2p1</Name>
-      <HintPath>..\imsmd_rootv1p2p1\bin\Debug\imsmd_rootv1p2p1.dll</HintPath>
-    </Reference>
+    </ProjectReference>
     <Reference Include="System">
       <Name>System</Name>
     </Reference>

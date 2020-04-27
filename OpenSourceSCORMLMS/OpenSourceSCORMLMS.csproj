@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
     <UserSecretsId>aspnet-OpenSourceSCORMLMS-216CDD04-809C-4E90-8838-B15D3F9DACB5</UserSecretsId>
   </PropertyGroup>
 
